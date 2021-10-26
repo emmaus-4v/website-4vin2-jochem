@@ -3,7 +3,7 @@ Starter template for creating website in gitpod or replit
 
 Deze website is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn website: 
+## Mijn website: Risk of Rain 2
 Gemaakt door: Jochem van Slingerland
 
 ## Mijn planning
@@ -13,7 +13,7 @@ Geef aan met [x] welke onderdelen af zijn
 ### Basisstappen
 
 Stap 1: Start 
-- [ ] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
+- [x] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
 - [x] Je hebt een account aangemaakt op www.github.com
 - [ ] Je hebt de voorbeeld website van de docent gekopieerd naar je eigen github account en het werkt. 
 
