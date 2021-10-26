@@ -14,7 +14,7 @@ Geef aan met [x] welke onderdelen af zijn
 
 Stap 1: Start 
 - [ ] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
-- [ ] Je hebt een account aangemaakt op www.github.com
+- [x] Je hebt een account aangemaakt op www.github.com
 - [ ] Je hebt de voorbeeld website van de docent gekopieerd naar je eigen github account en het werkt. 
 
 Stap 2: Bestandsstructuur opzetten 
