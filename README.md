@@ -3,8 +3,8 @@ Starter template for creating website in gitpod or replit
 
 Deze website is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn website: *onderwerp*
-Gemaakt door: *naam van leerling*
+## Mijn website: 
+Gemaakt door: Jochem van Slingerland
 
 ## Mijn planning
 Werk de planning af van boven naar beneden<br>
