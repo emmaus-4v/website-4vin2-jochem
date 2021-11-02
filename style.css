@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #0c2883;  
+    background-color: #08143b;  
     
     color: #fcf9f9;
     font: Verdana, Arial, Sans-Serif;
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #13119e;
+    background-color: #2a27ce;
     overflow: hidden;
 }
 
