@@ -39,8 +39,6 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
-    border:black;
-    border-width: 2px;
 }
 
 .smalltext {
@@ -59,7 +57,7 @@ a:hover {
 
 /* navigatiebalk */
 nav ul {
-    list-style-type: none;
+    list-style-type: circle;
     margin: 4px;
     padding: 0;
     background-color: #2a27ce;
@@ -74,7 +72,6 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 4px 6px;
     text-decoration: none;
 }
 
