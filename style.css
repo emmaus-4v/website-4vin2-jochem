@@ -57,7 +57,7 @@ a:hover {
 
 /* navigatiebalk */
 nav ul {
-    list-style-type: circle;
+    list-style-type: none;
     margin: 4px;
     padding: 0;
     background-color: #2a27ce;
@@ -73,6 +73,7 @@ nav li a {
     color: white;
     text-align: center;
     text-decoration: none;
+    padding: 20px;
 }
 
 nav li a:hover {
