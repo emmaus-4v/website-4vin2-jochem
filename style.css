@@ -41,6 +41,10 @@ img.zweefLinks {
     margin-right: 15px;
     height: 200px;
 }
+img.zweefRechts {
+    float: right;
+    margin-left: 15px;
+}
 
 .smalltext {
     font-size: 0.7em;
