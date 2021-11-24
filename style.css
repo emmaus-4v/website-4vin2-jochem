@@ -8,8 +8,7 @@ html, body {
     color: #fcf9f9;
     font: Verdana, Arial, Sans-Serif;
 }
-
-
+    
 main {
     margin: 0 auto;
     width: 700px;
@@ -19,6 +18,8 @@ main {
 
 article {
     text-align: justify;
+    border:solid #fcf9f9;
+    float: left;
 }
 
 
