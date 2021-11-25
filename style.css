@@ -1,5 +1,9 @@
 /* Basislayout */
 
+*{
+    
+    border-width: 3px;
+}
 html, body {
     height: 100%;
     padding: 0;
@@ -7,6 +11,11 @@ html, body {
     
     color: #fcf9f9;
     font: Verdana, Arial, Sans-Serif;
+}
+ div {
+    float: left;
+    width: 50%;
+    margin-left: 6px;
 }
     
 main {
@@ -44,7 +53,8 @@ img.zweefLinks {
 }
 img.zweefRechts {
     float: right;
-    margin-left: 15px;
+    margin-left: 3px;
+    width: 100%;
 }
 
 .smalltext {
