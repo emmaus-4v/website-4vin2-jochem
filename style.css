@@ -17,7 +17,7 @@ html, body {
     width: 50%;
     margin-left: 6px;
 }
- div2 {
+ div.description {
     float: right;
     width: 65%;
 }
@@ -33,7 +33,7 @@ main {
 }
 
 
-article {
+div.article {
     text-align: justify;
     border: solid #a3a3a3;
     float: left;
