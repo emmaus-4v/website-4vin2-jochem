@@ -3,6 +3,8 @@
 *{
     border: #fcf9f9;
     border-width: 3px;
+    font-family: monospace;
+    font-size: large;
 }
 html, body {
     height: 100%;
@@ -14,12 +16,14 @@ html, body {
 }
  div {
     float: left;
-    width: 50%;
+    
     margin-left: 6px;
 }
  div.description {
     float: right;
-    width: 65%;
+    width: 66%;
+    margin: 9px;
+    margin-top: 15px;
 }
 .skillbox {
     border:solid #a3a3a3;
@@ -65,8 +69,8 @@ img.zweefRechts {
     width: 45%;
     margin-top: 19px;
 }
-#zweefLinksText {
-    width: 35%;
+div.zweefLinksText {
+    width: 50%;
 }
 
 .smalltext {
