@@ -28,6 +28,15 @@ html, body {
 .skillbox {
     border:solid #a3a3a3;
     padding-left: 3px;
+    float: left;
+    width: 50%
+}
+
+.LoreBox {
+    float: right;
+    width: 50%;
+    border: solid #a3a3a3;
+    padding: 3px;
 }
     
 main {
@@ -71,6 +80,11 @@ img.zweefRechts {
 }
 div.zweefLinksText {
     width: 50%;
+}
+
+.skilltype {
+    margin-left: 130px;
+    margin-right: 130px;
 }
 
 .smalltext {
