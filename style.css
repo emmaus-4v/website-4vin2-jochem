@@ -10,10 +10,19 @@ html, body {
     height: 100%;
     padding: 0;
     background-color: #08143b;  
-    
+    margin: 0;
     color: #fcf9f9;
     font: Verdana, Arial, Sans-Serif;
+    background-image: url("afbeeldingen/3645359.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
 }
+
+article {
+    background-color: #15139b77;
+}
+
  div {
     float: left;
     
