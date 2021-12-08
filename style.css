@@ -1,6 +1,8 @@
 /* Basislayout */
 
-*{
+* {
+    overflow: hidden;
+    box-sizing: border-box;
     border: #fcf9f9;
     border-width: 3px;
     font-family: monospace;
@@ -19,8 +21,10 @@ html, body {
     background-position: center;
 }
 
-article {
+main {
     background-color: #15139b77;
+    border: solid #12276dde;
+   
 }
 
  div {
@@ -44,7 +48,7 @@ article {
 .LoreBox {
     float: right;
     width: 50%;
-    border: solid #a3a3a3;
+    border: solid #6b6b6b;
     padding: 3px;
 }
     
@@ -57,8 +61,9 @@ main {
 
 div.article {
     text-align: justify;
-    border: solid #a3a3a3;
     float: left;
+    margin: 3px;
+    margin-bottom: 5px;
 }
 
 
@@ -113,10 +118,11 @@ a:hover {
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: 4px;
+    margin: auto;
     padding: 0;
     background-color: #2a27ce;
     overflow: hidden;
+    width:fit-content;
 }
 
 nav ul li {
