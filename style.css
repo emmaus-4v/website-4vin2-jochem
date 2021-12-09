@@ -19,6 +19,7 @@ html, body {
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
+    width: 100%;
 }
 
 main {
@@ -88,6 +89,7 @@ img.zweefLinks {
     float: left;
     margin-right: 15px;
     height: 200px;
+    margin-top: 5px;
 }
 img.zweefRechts {
     float: right;
@@ -97,11 +99,6 @@ img.zweefRechts {
 }
 div.zweefLinksText {
     width: 50%;
-}
-
-.skilltype {
-    margin-left: 130px;
-    margin-right: 130px;
 }
 
 .smalltext {
@@ -117,6 +114,21 @@ a:hover {
     text-decoration: underline;
 }
 
+.skillrow {
+    padding-left: 2px;
+    
+}
+.skilltype {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 5px;
+    color:#dd8d14;
+}
+
+.AbilityName {
+    margin-left: 10px;
+    color: #dd8d14;
+}
 
 /* navigatiebalk */
 nav ul {
