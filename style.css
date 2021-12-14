@@ -43,7 +43,7 @@ main {
     border:solid #a3a3a3;
     padding-left: auto;
     float: left;
-    width: 48%
+    width: 48%;
 }
 
 .LoreBox {
@@ -80,6 +80,10 @@ header {
 footer {
     text-align: center;
     padding-bottom: 10px;
+}
+
+ul {
+    list-style: circle;
 }
 
 
@@ -128,6 +132,10 @@ a:hover {
 .AbilityName {
     margin-left: 10px;
     color: #dd8d14;
+}
+
+.center {
+    align-content: center;
 }
 
 /* navigatiebalk */
