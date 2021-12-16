@@ -3,12 +3,14 @@
 * {
     overflow: hidden;
     box-sizing: border-box;
-    border: #fcf9f9;
+    border:  #fcf9f9;
     border-width: 3px;
     font-family: monospace;
     font-size: large;
 }
+
 html, body {
+    overflow: visible;
     height: 100%;
     padding: 0;
     background-color: #08143b;  
@@ -64,6 +66,7 @@ main {
 
 
 div.article {
+    border: 1px dotted white;
     text-align: justify;
     float: left;
     margin: 3px;
@@ -136,6 +139,13 @@ a:hover {
 
 .center {
     align-content: center;
+}
+
+iframe {
+    float: right;
+    width: 45%;
+    height: 200px;
+    margin-top: 11px;
 }
 
 /* navigatiebalk */
