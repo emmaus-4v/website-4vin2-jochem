@@ -85,10 +85,6 @@ footer {
     padding-bottom: 10px;
 }
 
-ul {
-    list-style: circle;
-}
-
 
 /* specifieke stijlen */
 
@@ -122,8 +118,7 @@ a:hover {
 }
 
 .skillrow {
-    padding-left: 2px;
-    
+    padding-left: 2px;   
 }
 .skilltype {
     margin-left: 130px;
